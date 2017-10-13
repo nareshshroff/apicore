@@ -6,3 +6,5 @@ C:\nshroff\projects\ApiCore\ApiCore\bin\Debug\netcoreapp1.1\ApiCore.pdb
 C:\nshroff\projects\ApiCore\ApiCore\obj\Debug\netcoreapp1.1\ApiCore.AssemblyInfo.cs
 C:\nshroff\projects\ApiCore\ApiCore\obj\Debug\netcoreapp1.1\ApiCore.dll
 C:\nshroff\projects\ApiCore\ApiCore\obj\Debug\netcoreapp1.1\ApiCore.pdb
+C:\nshroff\projects\ApiCore\ApiCore\bin\Debug\netcoreapp1.1\Employee.dacpac
+C:\nshroff\projects\ApiCore\ApiCore\obj\Debug\netcoreapp1.1\ApiCore.csprojResolveAssemblyReference.cache
